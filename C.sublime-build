@@ -1,0 +1,14 @@
+{
+	"cmd": ["bcc32","$file_name"],
+	"selector" : "source.c",
+	"shell":false,
+	"working_dir" : "$file_path",
+	"encoding": "cp932",
+	"variants":
+	[
+	{
+		"name": "Run",
+		"cmd":["${file_base_name}.exe"]
+	}
+	]
+}

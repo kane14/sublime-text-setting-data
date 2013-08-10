@@ -1,0 +1,14 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"IMESupport",
+		"Japanize",
+		"Local History",
+		"Package Control",
+		"SublimeClang",
+		"Theme - Flatland",
+		"Theme - Nexus"
+	]
+}
